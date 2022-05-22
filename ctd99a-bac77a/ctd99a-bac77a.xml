@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,8 +39,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -62,13 +59,13 @@
     </front>
     <body>
       <div xml:id="ctd99a-bac77a"><!-- alias="ctd99a-l2" -->
-    <head>Liber 2</head>
-    <p n="1"> Neoptolemus quidem apud Ennium philosophari sibi ait necesse esse, sed paucis; nam
+    <head xml:id="ctd99a-bac77a-Hd1e90">Liber 2</head>
+    <p xml:id="ctd99a-bac77a-d1e92" n="1"> Neoptolemus quidem apud Ennium philosophari sibi ait necesse esse, sed paucis; nam
       omnino haud placere: ego autem, Brute, necesse mihi quidem esse arbitror philosophari—nam quid
       possum, praesertim nihil agens, agere melius?—sed non paucis, ut ille. difficile est enim in
       philosophia pauca esse ei nota, cui non sint aut pleraque aut omnia. nam nec pauca nisi e
       multis eligi possunt nec, qui pauca perceperit, non idem reliqua eodem studio persequetur. </p>
-    <p n="2"> sed tamen in vita occupata atque, ut Neoptolemi tum erat, militari pauca ipsa multum
+    <p xml:id="ctd99a-bac77a-d1e95" n="2"> sed tamen in vita occupata atque, ut Neoptolemi tum erat, militari pauca ipsa multum
       saepe prosunt et ferunt fructus, si non tantos quanti ex universa philosophia percipi possunt,
       tamen eos quibus aliqua ex parte interdum aut cupiditate aut aegritudine aut metu liberemur.
       velut ex ea disputatione, quae mihi nuper habita est in Tusculano, magna videbatur mortis
@@ -76,7 +73,7 @@
       non potest metuit, is vivere animo quieto nullo modo potest; sed qui non modo quia necesse est
       mori, verum etiam quia nihil habet mors quod sit horrendum, mortem non timet, magnum is sibi
       praesidium ad beatam vitam comparavit. </p>
-    <p n="3"> Quamquam non sumus ignari multos studiose contra esse dicturos; quod vitare nullo modo
+    <p xml:id="ctd99a-bac77a-d1e98" n="3"> Quamquam non sumus ignari multos studiose contra esse dicturos; quod vitare nullo modo
       potuimus, nisi nihil omnino scriberemus. etenim si orationes, quas nos multitudinis iudicio
       probari volebamus (popularis est enim illa facultas, et effectus eloquentiae est audientium
       adprobatio )—sed si reperiebantur non nulli, qui nihil laudarent nisi quod se imitari posse
@@ -84,7 +81,7 @@
       copia sententiarum atque verborum, ieiunitatem et famem se malle quam ubertatem et copiam
       dicerent, unde erat exortum genus Atticorum is ipsis, qui id sequi se profitebantur, ignotum,
       qui iam conticuerunt paene ab ipso foro inrisi: </p>
-    <p n="4"> quid futurum putamus, cum adiutore populo, quo utebamur antea, nunc minime nos uti
+    <p xml:id="ctd99a-bac77a-d1e101" n="4"> quid futurum putamus, cum adiutore populo, quo utebamur antea, nunc minime nos uti
       posse videamus? est enim philosophia paucis contenta iudicibus, multitudinem consulto ipsa
       fugiens eique ipsi et suspecta et invisa, ut, vel si quis universam velit vituperare, secundo
       id populo facere possit, vel si in eam quam nos maxime sequimur conetur invadere, magna habere
@@ -93,7 +90,7 @@
       accurate in Academicis quattuor libris explicata arbitramur; sed tamen tantum abest ut scribi
       contra nos nolimus, ut id etiam maxime optemus. in ipsa enim Graecia philosophia tanto in
       honore numquam fuisset, nisi doctissimorum contentionibus dissensionibusque viguisset. </p>
-    <p n="5"> Quam ob rem hortor omnis, qui facere id possunt, ut huius quoque generis laudem iam
+    <p xml:id="ctd99a-bac77a-d1e105" n="5"> Quam ob rem hortor omnis, qui facere id possunt, ut huius quoque generis laudem iam
       languenti Graeciae eripiant et transferant in hanc urbem, sicut reliquas omnis, quae quidem
       erant expetendae, studio atque industria sua maiores nostri transtulerunt. atque oratorum
       quidem laus ita ducta ab humili venit ad summum, ut iam, quod natura fert in omnibus fere
@@ -105,25 +102,25 @@
       simile occurrit progredi possumus, et refellere sine pertinacia et refelli sine iracundia
       parati sumus. </p>
 
-    <p n="6"> Quodsi haec studia traducta erunt ad nostros, ne bibliothecis quidem Graecis egebimus,
+    <p xml:id="ctd99a-bac77a-d1e108" n="6"> Quodsi haec studia traducta erunt ad nostros, ne bibliothecis quidem Graecis egebimus,
       in quibus multitudo infinita librorum propter eorum est multitudinem, qui scripserunt. eadem
       enim dicuntur a multis, ex quo libris omnia referserunt. quod accidet etiam nostris, si ad
       haec studia plures confluxerint. sed eos, si possumus, excitemus, qui liberaliter eruditi
       adhibita etiam disserendi elegantia ratione et via philosophantur. </p>
-    <p n="7"> est enim quoddam genus eorum qui se philosophos appellari volunt, quorum dicuntur esse
+    <p xml:id="ctd99a-bac77a-d1e111" n="7"> est enim quoddam genus eorum qui se philosophos appellari volunt, quorum dicuntur esse
       Latini sane multi libri; quos non contemno equidem, quippe quos numquam legerim; sed quia
       profitentur ipsi illi, qui eos scribunt, se neque distincte neque distribute neque eleganter
       neque ornate scribere, lectionem sine ulla delectatione neglego. quid enim dicant et quid
       sentiant i qui sunt ab ea disciplina, nemo ne mediocriter quidem doctus ignorat. quam ob rem,
       quoniam quem ad modum dicant ipsi non laborant, cur legendi sint nisi ipsi inter se qui idem
       sentiunt, non intellego. </p>
-    <p n="8"> nam, ut Platonem reliquosque Socraticos et deinceps eos, qui ab his profecti sunt,
+    <p xml:id="ctd99a-bac77a-d1e114" n="8"> nam, ut Platonem reliquosque Socraticos et deinceps eos, qui ab his profecti sunt,
       legunt omnes, etiam qui illa aut non adprobant aut non studiosissime consectantur, Epicurum
       autem et Metrodorum non fere praeter suos quisquam in manus sumit, sic hos Latinos i soli
       legunt, qui illa recte dici putant. nobis autem videtur, quicquid litteris mandetur, id
       commendari omnium eruditorum lectioni decere; nec, si id ipsi minus consequi possumus, idcirco
       minus id ita faciendum esse sentimus. </p>
-    <p n="9"> Itaque mihi semper Peripateticorum Academiaeque consuetudo de omnibus rebus in
+    <p xml:id="ctd99a-bac77a-d1e117" n="9"> Itaque mihi semper Peripateticorum Academiaeque consuetudo de omnibus rebus in
       contrarias partis disserendi non ob eam causam solum placuit, quod aliter non posset, quid in
       quaque re veri simile esset, inveniri, sed etiam quod esset ea maxuma dicendi exercitatio. qua
       princeps usus est Aristoteles, deinde eum qui secuti sunt. nostra autem memoria Philo, quem
@@ -134,12 +131,12 @@
       disputationem habitam non quasi narrantes exponimus, sed eisdem fere verbis, ut actum
       disputatumque est. Est igitur ambulantibus ad hunc modum sermo ille nobis institutus et a tali
       quodam ductus exordio: </p>
-    <p n="10"> Dici non potest, quam sim hesterna disputatione tua delectatus vel potius adiutus.
+    <p xml:id="ctd99a-bac77a-d1e120" n="10"> Dici non potest, quam sim hesterna disputatione tua delectatus vel potius adiutus.
       etsi enim mihi sum conscius numquam me nimis vitae cupidum fuisse, tamen interdum obiciebatur
       animo metus quidam et dolor cogitanti fore aliquando finem huius lucis et amissionem omnium
       vitae commodorum. hoc genere molestiae sic, mihi crede, sum liberatus, ut nihil minus curandum
       putem. Minime mirum id quidem; </p>
-    <p n="11"> nam efficit hoc philosophia: medetur animis, inanes sollicitudines detrahit,
+    <p xml:id="ctd99a-bac77a-d1e124" n="11"> nam efficit hoc philosophia: medetur animis, inanes sollicitudines detrahit,
       cupiditatibus liberat, pellit timores. sed haec eius vis non idem potest apud omnis: tum valet
       multum, cum est idoneam complexa naturam. fortis enim non modo fortuna adiuvat, ut est in
       vetere proverbio, sed multo magis ratio, quae quibusdam quasi praeceptis confirmat vim
@@ -149,7 +146,7 @@
       enim quisque philosophorum invenitur, qui sit ita moratus, ita animo ac vita constitutus, ut
       ratio postulat? qui disciplinam suam non ostentationem scientiae, sed legem vitae putet? qui
       obtemperet ipse sibi et decretis suis pareat? </p>
-    <p n="12"> videre licet alios tanta levitate et iactatione, ut iis fuerit non didicisse melius,
+    <p xml:id="ctd99a-bac77a-d1e127" n="12"> videre licet alios tanta levitate et iactatione, ut iis fuerit non didicisse melius,
       alios pecuniae cupidos, gloriae non nullos, multos libidinum servos, ut cum eorum vita
       mirabiliter pugnet oratio. quod quidem mihi videtur esse turpissimum. ut enim si grammaticum
       se professus quispiam barbare loquatur, aut si absurde canat is qui se haberi velit musicum,
@@ -158,7 +155,7 @@
       vitae professus delinquit in vita. Nonne verendum est igitur, si est ita, ut dicis, ne
       philosophiam falsa gloria exornes? quod est enim maius argumentum nihil eam prodesse, quam
       quosdam perfectos philosophos turpiter vivere? </p>
-    <p n="13"> Nullum vero id quidem argumentum est. nam ut agri non omnes frugiferi sunt qui
+    <p xml:id="ctd99a-bac77a-d1e130" n="13"> Nullum vero id quidem argumentum est. nam ut agri non omnes frugiferi sunt qui
       coluntur, falsumque illud Acci: <mentioned> Probae etsi in segetem sunt deteriorem datae
         Fruges, tamen ipsae suapte natura enitent </mentioned> , sic animi non omnes culti fructum
       ferunt. atque, ut in eodem simili verser, ut ager quamvis fertilis sine cultura fructuosus
@@ -166,13 +163,13 @@
       autem animi philosophia est; haec extrahit vitia radicitus et praeparat animos ad satus
       accipiendos eaque mandat is et, ut ita dicam, serit, quae adulta fructus uberrimos ferant.
       Agamus igitur, ut coepimus. dic, si vis, de quo disputari velis. </p>
-    <p n="14"> Dolorem existimo maxumum malorum omnium. Etiamne maius quam dedecus? Non audeo id
+    <p xml:id="ctd99a-bac77a-d1e135" n="14"> Dolorem existimo maxumum malorum omnium. Etiamne maius quam dedecus? Non audeo id
       dicere equidem, et me pudet tam cito de sententia esse deiectum. Magis esset pudendum, si in
       sententia permaneres. quid enim minus est dignum quam tibi peius quicquam videri dedecore
       flagitio turpitudine? quae ut effugias, quis est non modo recusandus, sed non ultro adpetendus
       subeundus excipiendus dolor? Ita prorsus existimo. quare ne sit sane summum malum dolor, malum
       certe est. Videsne igitur, quantum breviter admonitus de doloris terrore deieceris? </p>
-    <p n="15"> Video plane, sed plus desidero. Experiar equidem; sed magna res est, animoque mihi
+    <p xml:id="ctd99a-bac77a-d1e138" n="15"> Video plane, sed plus desidero. Experiar equidem; sed magna res est, animoque mihi
       opus est non repugnante. Habebis id quidem. ut enim heri feci, sic nunc rationem, quo ea me
       cumque ducet, sequar. Primum igitur de inbecillitate multorum et de variis disciplinis
       philosophorum loquar. quorum princeps et auctoritate et antiquitate Socraticus Aristippus non
@@ -180,7 +177,7 @@
       docilem se Epicurus praebuit. hunc post Rhodius Hieronymus dolore vacare summum bonum dixit:
       tantum in dolore duxit mali. ceteri praeter Zenonem, Aristonem, Pyrrhonem idem fere quod modo
       tu: malum illud quidem, sed alia peiora. </p>
-    <p n="16"> ergo id quod natura ipsa et quaedam generosa virtus statim respuit, ne scilicet
+    <p xml:id="ctd99a-bac77a-d1e141" n="16"> ergo id quod natura ipsa et quaedam generosa virtus statim respuit, ne scilicet
       dolorem summum malum diceres oppositoque dedecore sententia depellerere, in eo magistra vitae
       philosophia tot saecula permanet. quod huic officium, quae laus, quod decus erit tanti, quod
       adipisci cum dolore corporis velit, qui dolorem summum malum sibi esse persuaserit? quam porro
@@ -188,7 +185,7 @@
       esse decreverit? quis autem non miser non modo tunc, cum premetur summis doloribus, si in his
       est summum malum, sed etiam cum sciet id sibi posse evenire? et quis est, cui non possit? ita
       fit, ut omnino nemo esse possit beatus. </p>
-    <p n="17"> Metrodorus quidem perfecte eum beatum putat, cui corpus bene constitutum sit et
+    <p xml:id="ctd99a-bac77a-d1e145" n="17"> Metrodorus quidem perfecte eum beatum putat, cui corpus bene constitutum sit et
       exploratum ita semper fore. quis autem est iste, cui id exploratum possit esse? Epicurus vero
       ea dicit, ut mihi quidem risus captare videatur. adfirmat enim quodam loco, si uratur sapiens,
       si crucietur—expectas fortasse, dum dicat: <mentioned>patietur, perferet, non
@@ -198,19 +195,19 @@
       amarum? at id quidem illi ipsi, qui dolorem malum esse negant, non solent dicere, cuiquam
       suave esse cruciari: asperum, difficile, odiosum, contra naturam dicunt, nec tamen malum. hic,
       qui solum hoc malum dicit et malorum omnium extremum, sapientem censet id suave dicturum. </p>
-    <p n="18"> ego a te non postulo, ut dolorem eisdem verbis adficias quibus voluptatem Epicurus,
+    <p xml:id="ctd99a-bac77a-d1e152" n="18"> ego a te non postulo, ut dolorem eisdem verbis adficias quibus voluptatem Epicurus,
       homo, ut scis, voluptarius. ille dixerit sane idem in Phalaridis tauro, quod, si esset in
       lectulo; ego tantam vim non tribuo sapientiae contra dolorem. si fortis est in perferendo,
       officio satis est; ut laetetur etiam, non postulo. tristis enim res est sine dubio, aspera,
       amara, inimica naturae, ad patiendum tolerandumque difficilis. Aspice Philoctetam, cui
       concedendum est gementi; </p>
-    <p n="19"> ipsum enim Herculem viderat in Oeta magnitudine dolorum eiulantem. nihil igitur hunc
+    <p xml:id="ctd99a-bac77a-d1e155" n="19"> ipsum enim Herculem viderat in Oeta magnitudine dolorum eiulantem. nihil igitur hunc
       virum sagittae, quas ab Hercule acceperat, tum consolabantur, cum <mentioned> E viperino morsu
         venae viscerum Veneno inbutae taetros cruciatus cient. </mentioned> itaque exclamat auxilium
       expetens, mori cupiens; <mentioned> Heu, qui salsis fluctibus mandet Me ex sublimo vertice
         saxi! Iam iam absumor; conficit animam Vis volneris, ulceris aestus. </mentioned> difficile
       dictu videtur eum non in malo esse, et magno quidem, qui ita clamare cogatur. </p>
-    <p n="20"> Sed videamus Herculem ipsum, qui tum dolore frangebatur, cum inmortalitatem ipsa
+    <p xml:id="ctd99a-bac77a-d1e162" n="20"> Sed videamus Herculem ipsum, qui tum dolore frangebatur, cum inmortalitatem ipsa
       morte quaerebat: quas hic voces apud Sophoclem in Trachiniis edit! cui cum Deianira sanguine
       Centauri tinctam tunicam induisset inhaesissetque ea visceribus, ait ille: <mentioned>O multa
         dictu gravia, perpessu aspera, Quae corpore exanclata atque animo pertuli! Nec mihi Iunonis
@@ -225,7 +222,7 @@
         caritas. Huc arripe ad me manibus abstractam piis; Iam cernam, mene an illam potiorem
         putes.</mentioned>
     </p>
-    <p n="21">
+    <p xml:id="ctd99a-bac77a-d1e167" n="21">
       <mentioned>Perge, aude, nate! inlacrima patris pestibus, Miserere: gentes nostras flebunt
         miserias. Heu, virginalem me ore ploratum edere, Quem vidit nemo ulli ingemescentem malo!
         Ecfeminata virtus adflicta occidit. Accede, nate, adsiste, miserandum aspice Evisceratum
@@ -233,7 +230,7 @@
         coruscam fulminis! Nunc, nunc dolorum anxiferi torquent vertices, Nunc serpit ardor. o ante
         victrices manus,</mentioned>
     </p>
-    <p n="22">
+    <p xml:id="ctd99a-bac77a-d1e172" n="22">
       <mentioned>O pectora, o terga, o lacertorum tori, Vestrone pressu quondam Nemeaeus leo
         Frendens efflavit graviter extremum halitum? Haec dextra Lernam taetra mactata excetra
         Pacavit? haec bicorporem adflixit manum? Erymanthiam haec vastificam abiecit beluam? Haec e
@@ -241,7 +238,7 @@
         tortu multiplicabili Draconem auriferam optutu adservantem arborem? Multa alia victrix
         nostra lustravit manus, Nec quisquam e nostris spolia cepit laudibus.</mentioned> Possumusne
       nos contemnere dolorem, cum ipsum Herculem tam intoleranter dolere videamus? </p>
-    <p n="23"> Veniat Aeschylus, non poëta solum, sed etiam Pythagoreus; sic enim accepimus. quo
+    <p xml:id="ctd99a-bac77a-d1e178" n="23"> Veniat Aeschylus, non poëta solum, sed etiam Pythagoreus; sic enim accepimus. quo
       modo fert apud eum Prometheus dolorem, quem excipit ob furtum Lemnium, <mentioned> Unde ignis
         cluet mortalibus clam Divisus; eum doctus Prometheus Clepsisse dolo poenasque Iovi Fato
         expendisse supremo? </mentioned> has igitur poenas pendens adfixus ad Caucasum dicit haec:
@@ -250,7 +247,7 @@
         Saturnius me sic infixit Iuppiter, Iovisque numen Mulciberi adscivit manus. Hos ille cuneos
         fabrica crudeli inserens Perrupit artus; qua miser sollertia Transverberatus castrum hoc
         Furiarum incolo.</mentioned></p>
-    <p n="24">
+    <p xml:id="ctd99a-bac77a-d1e184" n="24">
       <mentioned>Iam tertio me quoque funesto die Tristi advolatu aduncis lacerans unguibus Iovis
         satelles pastu dilaniat fero. Tum iecore opimo farta et satiata adfatim Clangorem fundit
         vastum et sublime avolans Pinnata cauda nostrum adulat sanguinem. Cum vero adesum inflatu
@@ -258,14 +255,14 @@
         cruciatus alo, Quae me perenni vivum foedat miseria. Namque, ut videtis, vinclis constrictus
         Iovis Arcere nequeo diram volucrem a pectore.</mentioned>
     </p>
-    <p n="25">
+    <p xml:id="ctd99a-bac77a-d1e189" n="25">
       <mentioned>Sic me ipse viduus pestes excipio anxias Amore mortis terminum anquirens mali; Sed
         longe a leto numine aspellor Iovis, Atque haec vetusta, saeclis glomerata horridis,
         Luctifica clades nostro infixa est corpori; E quo liquatae solis ardore excidunt Guttae,
         quae saxa adsidue instillant Caucasi.</mentioned> vix igitur posse videmur ita adfectum non
       miserum dicere et, si nunc miserum, certe dolorem malum. Tu quidem adhuc meam causam agis, sed
       hoc mox videro; </p>
-    <p n="26"> interea, unde isti versus? non enim adgnosco. Dicam hercle; etenim recte requiris.
+    <p xml:id="ctd99a-bac77a-d1e194" n="26"> interea, unde isti versus? non enim adgnosco. Dicam hercle; etenim recte requiris.
       videsne abundare me otio? Quid tum? Fuisti saepe, credo, cum Athenis esses, in scholis
       philosophorum. Vero, ac libenter quidem. Animadvertebas igitur, etsi tum nemo erat admodum
       copiosus, verum tamen versus ab is admisceri orationi. Ac multos quidem a Dionysio Stoico.
@@ -274,13 +271,13 @@
       studiose equidem utor nostris poëtis; sed sicubi illi defecerunt—verti enim multa de Graecis,
       ne quo ornamento in hoc genere disputationis careret Latina oratio. Sed videsne, poëtae quid
       mali adferant? </p>
-    <p n="27"> lamentantis inducunt fortissimos viros, molliunt animos nostros, ita sunt deinde
+    <p xml:id="ctd99a-bac77a-d1e197" n="27"> lamentantis inducunt fortissimos viros, molliunt animos nostros, ita sunt deinde
       dulces, ut non legantur modo, sed etiam ediscantur. sic ad malam domesticam disciplinam
       vitamque umbratilem et delicatam cum accesserunt etiam poëtae, nervos omnis virtutis elidunt.
       recte igitur a Platone eiciuntur ex ea civitate, quam finxit ille, cum optimos mores et
       optimum rei p. statum exquireret. at vero nos, docti scilicet a Graecia, haec a pueritia
       legimus ediscimus, hanc eruditionem liberalem et doctrinam putamus. Sed quid poëtis irascimur? </p>
-    <p n="28"> virtutis magistri, philosophi, inventi sunt, qui summum malum dolorem dicerent. at
+    <p xml:id="ctd99a-bac77a-d1e200" n="28"> virtutis magistri, philosophi, inventi sunt, qui summum malum dolorem dicerent. at
       tu, adulescens, cum id tibi paulo ante dixisses videri, rogatus a me, etiamne maius quam
       dedecus, verbo de sententia destitisti. roga hoc idem Epicurum: maius dicet esse malum
       mediocrem dolorem quam maxumum dedecus; in ipso enim dedecore mali nihil esse, nisi sequantur
@@ -289,7 +286,7 @@
       tibi videri malum dedecus quam dolorem. hoc ipsum enim si tenebis, intelleges quam sit
       obsistendum dolori; nec tam quaerendum est, dolor malumne sit, quam firmandus animus ad
       dolorem ferendum. Concludunt ratiunculas Stoici, cur non sit malum; </p>
-    <p n="29"> quasi de verbo, non de re laboretur. quid me decipis, Zeno? nam cum id, quod mihi
+    <p xml:id="ctd99a-bac77a-d1e204" n="29"> quasi de verbo, non de re laboretur. quid me decipis, Zeno? nam cum id, quod mihi
       horribile videtur, tu omnino malum negas esse, capior et scire cupio, quo modo id, quod ego
       miserrimum existimem, ne malum quidem sit. <mentioned>nihil est</mentioned> inquit <mentioned>
         malum nisi quod turpe atque vitiosum est. </mentioned> ad ineptias redis; illud enim, quod
@@ -299,7 +296,7 @@
         reiciendum.</mentioned> cur? <mentioned> asperum est, contra naturam, difficile perpessu,
         triste, durum. </mentioned>
     </p>
-    <p n="30"> haec est copia verborum, quod omnes uno verbo malum appellamus, id tot modis posse
+    <p xml:id="ctd99a-bac77a-d1e217" n="30"> haec est copia verborum, quod omnes uno verbo malum appellamus, id tot modis posse
       dicere. definis tu mihi, non tollis dolorem, cum dicis asperum, contra naturam, vix quod ferri
       tolerarique possit; nec mentiris; sed re succumbere non oportebat verbis gloriantem.
         <mentioned> dum nihil bonum nisi quod honestum, nihil malum nisi quod turpe— </mentioned>
@@ -309,7 +306,7 @@
       appellamus, quod idem interdum virtutis nomine amplectimur, ut omnia praeterea, quae bona
       corporis et fortunae putantur, perexigua et minuta videantur, igitur ne malum quidem ullum,
       nec si in unum locum conlata omnia sint, cum turpitudinis malo comparanda. </p>
-    <p n="31"> quare si, ut initio concessisti, turpitudo peius est quam dolor, nihil est plane
+    <p xml:id="ctd99a-bac77a-d1e222" n="31"> quare si, ut initio concessisti, turpitudo peius est quam dolor, nihil est plane
       dolor. nam dum tibi turpe nec dignum viro videbitur gemere, eiulare, lamentari, frangi,
       debilitari dolore, dum honestas, dum dignitas, dum decus aderit, tuque in ea intuens te
       continebis, cedet profecto virtuti dolor et animi inductione languescet. Aut enim nulla virtus
@@ -319,12 +316,12 @@
       homine propter vim doloris enuntiante commissa, prodente conscios, multa officia relinquente?
       quid? fortitudini comitibusque eius, magnitudini animi, gravitati, patientiae, rerum humanarum
       despicientiae, quo modo respondebis? </p>
-    <p n="32"> adflictusne et iacens et lamentabili voce deplorans audieris: <mentioned>o virum
+    <p xml:id="ctd99a-bac77a-d1e225" n="32"> adflictusne et iacens et lamentabili voce deplorans audieris: <mentioned>o virum
         fortem!</mentioned> ? te vero ita adfectum ne virum quidem quisquam dixerit. amittenda
       igitur fortitudo est aut sepeliendus dolor. Ecquid scis igitur, si quid de Corinthiis tuis
       amiseris, posse habere te reliquam supellectilem salvam, virtutem autem si unam amiseris—etsi
       amitti non potest virtus, sed si unam confessus eris te non habere, nullam esse te habiturum? </p>
-    <p n="33"> num igitur fortem virum, num magno animo, num patientem, num gravem, num humana
+    <p xml:id="ctd99a-bac77a-d1e230" n="33"> num igitur fortem virum, num magno animo, num patientem, num gravem, num humana
       contemnentem potes dicere aut Philoctetam illum—? a te enim malo discedere, sed ille certe non
       fortis, qui iacet <mentioned> in tecto umido, Quod eiulatu, questu, gemitu, fremitibus
         Resonando mutum flebilis voces refert. </mentioned> non ego dolorem dolorem esse nego—cur
@@ -332,13 +329,13 @@
       nulla est, quid exornamus philosophiam aut quid eius nomine gloriosi sumus? pungit dolor, vel
       fodiat sane: si nudus es, da iugulum; sin tectus Volcaniis armis, id est fortitudine, resiste;
       haec enim te, nisi ita facies, custos dignitatis relinquet et deseret. </p>
-    <p n="34"> Cretum quidem leges, quas sive Iuppiter sive Minos sanxit de Iovis quidem sententia,
+    <p xml:id="ctd99a-bac77a-d1e235" n="34"> Cretum quidem leges, quas sive Iuppiter sive Minos sanxit de Iovis quidem sententia,
       ut poëtae ferunt, itemque Lycurgi laboribus erudiunt iuventutem, venando currendo, esuriendo
       sitiendo, algendo aestuando. Spartae vero pueri ad aram sic verberibus accipiuntur,
         <mentioned>ut multus e visceribus sanguis exeat,</mentioned> non numquam etiam, ut, cum ibi
       essem, audiebam, ad necem; quorum non modo nemo exclamavit umquam, sed ne ingemuit quidem.
       quid ergo? hoc pueri possunt, viri non poterunt? et mos valet, ratio non valebit? </p>
-    <p n="35"> Interest aliquid inter laborem et dolorem. sunt finitima omnino, sed tamen differt
+    <p xml:id="ctd99a-bac77a-d1e241" n="35"> Interest aliquid inter laborem et dolorem. sunt finitima omnino, sed tamen differt
       aliquid. labor est functio quaedam vel animi vel corporis gravioris operis et muneris, dolor
       autem motus asper in corpore alienus a sensibus. haec duo Graeci illi, quorum copiosior est
       lingua quam nostra, uno nomine appellant. itaque industrios homines illi studiosos vel potius
@@ -347,14 +344,14 @@
       aliud laborare. cum varices secabantur C. Mario, dolebat; cum aestu magno ducebat agmen,
       laborabat. est inter haec quaedam tamen similitudo: consuetudo enim laborum perpessionem
       dolorum efficit faciliorem. </p>
-    <p n="36"> itaque illi, qui Graeciae formam rerum publicarum dederunt, corpora iuvenum firmari
+    <p xml:id="ctd99a-bac77a-d1e244" n="36"> itaque illi, qui Graeciae formam rerum publicarum dederunt, corpora iuvenum firmari
       labore voluerunt; quod Spartiatae etiam in feminas transtulerunt, quae ceteris in urbibus
       mollissimo cultu <mentioned>parietum umbris occuluntur</mentioned> . illi autem voluerunt
       nihil horum simile esse <mentioned> apud Lacaenas virgines, Quibus magis palaestra Eurota sol
         pulvis labor Militia in studio est quam fertilitas barbara. </mentioned> ergo his laboriosis
       exercitationibus et dolor intercurrit non numquam, inpelluntur feriuntur abiciuntur cadunt, et
       ipse labor quasi callum quoddam obducit dolori. </p>
-    <p n="37"> Militiam vero—nostram dico, non Spartiatarum, quorum procedit ad modum acies ac
+    <p xml:id="ctd99a-bac77a-d1e251" n="37"> Militiam vero—nostram dico, non Spartiatarum, quorum procedit ad modum acies ac
       tibiam, nec adhibetur ulla sine anapaestis pedibus hortatio—, nostri exercitus primum unde
       nomen habeant, vides; deinde qui labor, quantus agminis: ferre plus dimidiati mensis cibaria,
       ferre, si quid ad usum velint, ferre vallum (nam scutum gladium galeam in onere nostri milites
@@ -363,7 +360,7 @@
       pugnare possint). quid? exercitatio legionum, quid? ille cursus concursus clamor quanti
       laboris est! ex hoc ille animus in proeliis paratus ad volnera. adduc pari animo inexercitatum
       militem: </p>
-    <p n="38"> mulier videbitur. cur tantum interest inter novum et veterem exercitum, quantum
+    <p xml:id="ctd99a-bac77a-d1e254" n="38"> mulier videbitur. cur tantum interest inter novum et veterem exercitum, quantum
       experti sumus? aetas tironum plerumque melior, sed ferre laborem, contemnere volnus consuetudo
       docet. quin etiam videmus ex acie efferri saepe saucios, et quidem rudem illum et
       inexercitatum quamvis levi ictu ploratus turpissimos edere: at vero ille exercitatus et vetus
@@ -374,7 +371,7 @@
         liberorum saucii opplent porticus; Non potest accedi.— Certe Eurypylus hic quidem est.
         hominem exercitum! </mentioned>
     </p>
-    <p n="39"> non minus autem exercitatum : ubi tantum luctus continuatur, vide quam non flebiliter
+    <p xml:id="ctd99a-bac77a-d1e261" n="39"> non minus autem exercitatum : ubi tantum luctus continuatur, vide quam non flebiliter
       respondeat, rationem etiam adferat cur aequo animo sibi ferendum sit: <mentioned> Qui alteri
         exitium parat, Eum scire oportet sibi paratum, pestem ut participet parem. </mentioned>
       abducet Patricoles, credo, ut conlocet in cubili, ut volnus obliget. siquidem homo esset; sed
@@ -384,12 +381,12 @@
         <mentioned> Ubi fortuna Hectoris nostram acrem aciem inclinatam . . </mentioned> et cetera
       explicat in dolore; sic est enim intemperans militaris in forti viro gloria. ergo haec
       veteranus miles facere poterit, doctus vir sapiensque non poterit? </p>
-    <p n="40"> ille vero melius, ac non paulo quidem. Sed adhuc de consuetudine exercitationis
+    <p xml:id="ctd99a-bac77a-d1e270" n="40"> ille vero melius, ac non paulo quidem. Sed adhuc de consuetudine exercitationis
       loquor, nondum de ratione et sapientia. aniculae saepe inediam biduum aut triduum ferunt;
       subduc cibum unum diem athletae: Iovem, Iovem Olympium, eum ipsum, cui se exercebit,
       inplorabit, ferre non posse clamabit. consuetudinis magna vis est: pernoctant venatores in
       nive in montibus; uri se patiuntur Indi; pugiles caestibus contusi ne ingemescunt quidem. </p>
-    <p n="41"> sed quid hos, quibus Olympiorum victoria consulatus ille antiquus videtur?
+    <p xml:id="ctd99a-bac77a-d1e274" n="41"> sed quid hos, quibus Olympiorum victoria consulatus ille antiquus videtur?
       gladiatores, aut perditi homines aut barbari, quas plagas perferunt! quo modo illi, qui bene
       instituti sunt, accipere plagam malunt quam turpiter vitare! quam saepe apparet nihil eos
       malle quam vel domino satis facere vel populo! mittunt etiam volneribus confecti ad dominos,
@@ -401,7 +398,7 @@
       meditatione et ratione conroboret? crudele gladiatorum spectaculum et inhumanum non nullis
       videri solet, et haud scio an ita sit, ut nunc fit; cum vero sontes ferro depugnabant, auribus
       fortasse multae, oculis quidem nulla poterat esse fortior contra dolorem et mortem disciplina. </p>
-    <p n="42"> De exercitatione et consuetudine et commentatione dixi. age sis, nunc de ratione
+    <p xml:id="ctd99a-bac77a-d1e279" n="42"> De exercitatione et consuetudine et commentatione dixi. age sis, nunc de ratione
       videamus, nisi quid vis ad haec. Egone ut te interpellem? ne hoc quidem vellem: ita me ad
       credendum tua ducit oratio. Sitne igitur malum dolere necne, Stoici viderint, qui contortulis
       quibusdam et minutis conclusiunculis nec ad sensus permanantibus effici volunt non esse malum
@@ -409,7 +406,7 @@
       visione et specie moveri homines dico vehementius, doloremque omnem esse tolerabilem. Unde
       igitur ordiar? an eadem breviter attingam, quae modo dixi, quo facilius oratio progredi possit
       longius? </p>
-    <p n="43"> inter omnis igitur hoc constat, nec doctos homines solum sed etiam indoctos, virorum
+    <p xml:id="ctd99a-bac77a-d1e282" n="43"> inter omnis igitur hoc constat, nec doctos homines solum sed etiam indoctos, virorum
       esse fortium et magnanimorum et patientium et humana vincentium toleranter dolorem pati; nec
       vero quisquam fuit, qui eum, qui ita pateretur, non laudandum putaret. quod ergo et postulatur
       a fortibus et laudatur, cum fit, id aut extimescere veniens aut non ferre praesens nonne turpe
@@ -419,7 +416,7 @@
       maxima: mortis dolorisque contemptio. utendum est igitur his, si virtutis compotes vel potius
       si viri volumus esse, quoniam a viris virtus nomen est mutuata. Quaeres fortasse, quo modo, et
       recte: talem enim medicinam philosophia profitetur. </p>
-    <p n="44"> venit Epicurus, homo minime malus vel potius vir optimus; tantum monet, quantum
+    <p xml:id="ctd99a-bac77a-d1e285" n="44"> venit Epicurus, homo minime malus vel potius vir optimus; tantum monet, quantum
       intellegit. <mentioned> neglege </mentioned> inquit <mentioned>dolorem.</mentioned> quis hoc
       dicit? idem, qui dolorem summum malum? vix satis constanter. audiamus. <mentioned>si summus
         dolor est</mentioned> inquit, <mentioned> brevem necesse est esse. </mentioned>
@@ -432,7 +429,7 @@
       </mentioned> inquit <mentioned>dolor diuturnus habet laetitiae plus quam
         molestiae.</mentioned>
     </p>
-    <p n="45"> nunc ego non possum tantum hominem nihil sapere dicere, sed nos ab eo derideri puto.
+    <p xml:id="ctd99a-bac77a-d1e305" n="45"> nunc ego non possum tantum hominem nihil sapere dicere, sed nos ab eo derideri puto.
       ego summum dolorem—summum autem dico, etiamsi decem atomis est maior alius—non continuo esse
       dico brevem multosque possum bonos viros nominare, qui complures annos doloribus podagrae
       crucientur maximis. sed homo catus numquam terminat nec magnitudinis nec diuturnitatis modum,
@@ -442,7 +439,7 @@
       praebeat. Aliunde igitur est quaerenda medicina, et maxime quidem, si, quid maxime
       consentaneum sit, quaerimus, ab is quibus, quod honestum sit, summum bonum, quod turpe, summum
       videtur malum. his tu praesentibus gemere et iactare te non audebis profecto; </p>
-    <p n="46"> loquetur enim eorum voce Virtus ipsa tecum: <mentioned> tune, cum pueros Lacedaemone,
+    <p xml:id="ctd99a-bac77a-d1e308" n="46"> loquetur enim eorum voce Virtus ipsa tecum: <mentioned> tune, cum pueros Lacedaemone,
         adulescentis Olympiae, barbaros in harena videris excipientis gravissimas plagas et ferentis
         silentio, si te forte dolor aliquis pervellerit, exclamabis ut mulier, non constanter et
         sedate feres? </mentioned>
@@ -455,7 +452,7 @@
       optandum per se, a virtute profectum vel in ipsa virtute situm, sua sponte laudabile, quod
       idem citius dixerim solum quam non summum bonum. atque ut haec de honesto, sic de turpi
       contraria: nihil tam taetrum, nihil tam aspernandum, nihil homine indignius. </p>
-    <p n="47"> Quod si tibi persuasum est—principio enim dixisti plus in dedecore mali tibi videri
+    <p xml:id="ctd99a-bac77a-d1e316" n="47"> Quod si tibi persuasum est—principio enim dixisti plus in dedecore mali tibi videri
       quam in dolore—, reliquum est, ut tute tibi imperes. quamquam hoc nescio quo modo dicatur.
       quasi duo simus, ut alter imperet, alter pareat! non inscite tamen dicitur. est enim animus in
       partis tributus duas, quarum altera rationis est particeps, altera expers. cum igitur
@@ -465,7 +462,7 @@
       et regina ratio, quae conixa per se et progressa longius fit perfecta virtus. haec ut imperet
       illi parti animi, quae oboedire debet, id videndum est viro. <mentioned> quonam modo?
       </mentioned> inquies. </p>
-    <p n="48"> vel ut dominus servo vel ut imperator militi vel ut parens filio. si turpissime se
+    <p xml:id="ctd99a-bac77a-d1e321" n="48"> vel ut dominus servo vel ut imperator militi vel ut parens filio. si turpissime se
       illa pars animi geret, quam dixi esse mollem, si se lamentis muliebriter lacrimisque dedet,
       vinciatur et constringatur amicorum propinquorumque custodiis; saepe enim videmus fractos
       pudore, qui ratione nulla vincerentur. ergo hos quidem ut famulos vinclis prope ac custodia,
@@ -474,13 +471,13 @@
       lamentatur vel modice potius: <mentioned>pedetemptim,</mentioned> inquit, <mentioned> ite et
         sedato nisu Ne succussu arripiat maior Dolor </mentioned> (Pacuvius hoc melius quam
       Sophocles; </p>
-    <p n="49"> apud illum enim perquam flebiliter Ulixes lamentatur in volnere); tamen huic leviter
+    <p xml:id="ctd99a-bac77a-d1e328" n="49"> apud illum enim perquam flebiliter Ulixes lamentatur in volnere); tamen huic leviter
       gementi illi ipsi, qui ferunt saucium, personae gravitatem intuentes non dubitant dicere:
         <mentioned> Tu quoque, Ulixes, quamquam graviter Cernimus ictum, nimis paene animo es Molli,
         qui consuetus in armis Aevom agere 
       </mentioned> intellegit poëta prudens ferendi doloris consuetudinem esse non contemnendam
       magistram. </p>
-    <p n="50"> atque ille non inmoderate magno in dolore: <mentioned> Retinete, tenete! opprimit
+    <p xml:id="ctd99a-bac77a-d1e333" n="50"> atque ille non inmoderate magno in dolore: <mentioned> Retinete, tenete! opprimit
         ulcus; Nudate! heu miserum me: excrucior. </mentioned> incipit labi, deinde ilico desinit:
         <mentioned> Operite, abscedite iam iam! Mittite! nam attrectatu et quassu Saevum
         amplificatis dolorem. </mentioned> videsne, ut obmutuerit non sedatus corporis, sed
@@ -488,7 +485,7 @@
         <mentioned> Conqueri fortunam adversam, non lamentari decet; Id viri est officium, fletus
         muliebri ingenio additus. </mentioned>
     </p>
-    <p n="51">
+    <p xml:id="ctd99a-bac77a-d1e342" n="51">
      Huius animi pars illa mollior rationi sic paruit ut severo imperatori miles pudens. in
       quo vero erit perfecta sapientia—quem adhuc nos quidem vidimus neminem; sed philosophorum
       sententiis, qualis hic futurus sit, si modo aliquando fuerit, exponitur—, is igitur sive ea
@@ -496,7 +493,7 @@
       parens probis filiis; nutu, quod volet, conficiet, nullo labore, nulla molestia; eriget ipse
       se, suscitabit, instruet, armabit, ut tamquam hosti sic obsistat dolori. quae sunt ista arma?
       contentio confirmatio sermoque intumus, cum ipse secum: </p>
-    <p n="52"> 'cave turpe quicquam, languidum, non virile.' obversentur species honestae animo:
+    <p xml:id="ctd99a-bac77a-d1e345" n="52"> 'cave turpe quicquam, languidum, non virile.' obversentur species honestae animo:
       Zeno proponatur Eleates, qui perpessus est omnia potius quam conscios delendae tyrannidis
       indicaret; de Anaxarcho Democritio cogitetur, qui cum Cypri in manus Timocreontis regis
       incidisset, nullum genus supplicii deprecatus est neque recusavit. Callanus Indus, indoctus ac
@@ -504,7 +501,7 @@
       condoluit, si dens , ferre non possumus. opinio est enim quaedam effeminata ac levis—nec in
       dolore magis quam eadem in voluptate—, qua cum liquescimus fluimusque mollitia, apis aculeum
       sine clamore ferre non possumus. </p>
-    <p n="53"> at vero C. Marius, rusticanus vir, sed plane vir, cum secaretur, ut supra dixi,
+    <p xml:id="ctd99a-bac77a-d1e349" n="53"> at vero C. Marius, rusticanus vir, sed plane vir, cum secaretur, ut supra dixi,
       principio vetuit se alligari, nec quisquam ante Marium solutus dicitur esse sectus. cur ergo
       postea alii? valuit auctoritas. videsne igitur opinionis esse, non naturae malum? et tamen
       fuisse acrem morsum doloris idem Marius ostendit; crus enim alterum non praebuit. ita et tulit
@@ -512,27 +509,27 @@
       ut tibi imperes. ostendi autem, quod esset imperandi genus; atque haec cogitatio, quid
       patientia, quid fortitudine, quid magnitudine animi dignissimum sit, non solum animum
       comprimit, sed ipsum etiam dolorem nescio quo pacto mitiorem facit. </p>
-    <p n="54"> ut enim fit in proelio, ut ignavus miles ac timidus, simul ac viderit hostem, abiecto
+    <p xml:id="ctd99a-bac77a-d1e352" n="54"> ut enim fit in proelio, ut ignavus miles ac timidus, simul ac viderit hostem, abiecto
       scuto fugiat quantum possit, ob eamque causam pereat non numquam etiam integro corpore, cum ei
       qui steterit nihil tale evenerit, sic qui doloris speciem ferre non possunt, abiciunt se atque
       ita adflicti et exanimati iacent; qui autem restiterunt, discedunt saepissime superiores. sunt
       enim quaedam animi similitudines cum corpore. ut onera contentis corporibus facilius feruntur,
       remissis opprimunt, simillime animus intentione sua depellit pressum omnem ponderum, </p>
-    <p n="55"> remissione autem sic urgetur, ut se nequeat extollere. et si verum quaerimus, in
+    <p xml:id="ctd99a-bac77a-d1e355" n="55"> remissione autem sic urgetur, ut se nequeat extollere. et si verum quaerimus, in
       omnibus officiis persequendis animi est adhibenda contentio; ea est sola officii tamquam
       custodia. sed hoc idem in dolore maxume est providendum, ne quid abiecte, ne quid timide, ne
       quid ignave, ne quid serviliter muliebriterve faciamus, in primisque refutetur ac reiciatur
       Philocteteus ille clamor. Ingemescere non numquam viro concessum est, idque raro, eiulatus ne
       mulieri quidem; et hic nimirum est <mentioned> lessus </mentioned> , quem duodecim tabulae in
       funeribus adhiberi vetuerunt. </p>
-    <p n="56"> nec vero umquam ne ingemescit quidem vir fortis ac sapiens, nisi forte ut se intendat
+    <p xml:id="ctd99a-bac77a-d1e360" n="56"> nec vero umquam ne ingemescit quidem vir fortis ac sapiens, nisi forte ut se intendat
       ad firmitatem, ut in stadio cursores exclamant quam maxime possunt. faciunt idem, cum
       exercentur, athletae; pugiles vero, etiam cum feriunt adversarium, in iactandis caestibus
       ingemescunt, non quod doleant animove succumbant, sed quia profundenda voce omne corpus
       intenditur venitque plaga vehementior. quid? qui volunt exclamare maius, num satis habent
       latera fauces linguam intendere, e quibus elici vocem et fundi videmus? toto corpore atque
       omnibus ungulis, ut dicitur, contentioni vocis adserviunt. </p>
-    <p n="57"> genu mehercule M. Antonium vidi, cum contente pro se ipse lege Varia diceret, terram
+    <p xml:id="ctd99a-bac77a-d1e363" n="57"> genu mehercule M. Antonium vidi, cum contente pro se ipse lege Varia diceret, terram
       tangere. ut enim ballistae lapidum et reliqua tormenta telorum eo graviores emissiones habent,
       quo sunt contenta atque adducta vehementius, sic vox, sic cursus, sic plaga hoc gravior, quo
       est missa contentius. cuius contentionis cum tanta vis sit, si gemitus in dolore ad
@@ -541,7 +538,7 @@
       levationis aliquid adferret, tamen videremus, quid esset fortis et animosi viri; cum vero
       nihil imminuat doloris, cur frustra turpes esse volumus? quid est enim fletu muliebri viro
       turpius? </p>
-    <p n="58"> atque hoc praeceptum, quod de dolore datur, patet latius: omnibus enim rebus, non
+    <p xml:id="ctd99a-bac77a-d1e366" n="58"> atque hoc praeceptum, quod de dolore datur, patet latius: omnibus enim rebus, non
       solum dolori, simili contentione animi resistendum est. ira exardescit, libido concitatur: in
       eandem arcem confugiendum est, eadem sunt arma sumenda. sed quoniam de dolore loquimur, illa
       omittamus. Ad ferendum igitur dolorem placide atque sedate plurimum proficit toto pectore, ut
@@ -551,11 +548,11 @@
       impetu animorum ad veram laudem atque honestatem illa pericula adeuntur in proeliis, non
       sentiunt viri fortes in acie volnera, vel sentiunt, sed mori malunt quam tantum modo de
       dignitatis gradu demoveri. </p>
-    <p n="59"> fulgentis gladios hostium videbant Decii, cum in aciem eorum inruebant. his levabat
+    <p xml:id="ctd99a-bac77a-d1e370" n="59"> fulgentis gladios hostium videbant Decii, cum in aciem eorum inruebant. his levabat
       omnem volnerum metum nobilitas mortis et gloria. num tum ingemuisse Epaminondam putas, cum una
       cum sanguine vitam effluere sentiret? imperantem enim patriam Lacedaemoniis relinquebat, quam
       acceperat servientem. haec sunt solacia, haec fomenta summorum dolorum. </p>
-    <p n="60"> Dices: quid in pace, quid domi, quid in lectulo? ad philosophos me revocas, qui in
+    <p xml:id="ctd99a-bac77a-d1e373" n="60"> Dices: quid in pace, quid domi, quid in lectulo? ad philosophos me revocas, qui in
       aciem non saepe prodeunt. e quibus homo sane levis, Heracleotes Dionysius, cum a Zenone fortis
       esse didicisset, a dolore dedoctus est. nam cum ex renibus laboraret, ipso in eiulatu
       clamitabat falsa esse illa, quae antea de dolore ipse sensisset. quem cum Cleanthes
@@ -565,7 +562,7 @@
         possum. malum est igitur dolor. </mentioned> tum Cleanthem, cum pede terram percussisset,
       versum ex Epigonis ferunt dixisse: <mentioned> audisne haec, Amphiarae sub terram abdite?
       </mentioned> Zenonem significabat, a quo illum degenerare dolebat. </p>
-    <p n="61"> at non noster Posidonius; quem et ipse saepe vidi et id dicam, quod solebat narrare
+    <p xml:id="ctd99a-bac77a-d1e380" n="61"> at non noster Posidonius; quem et ipse saepe vidi et id dicam, quod solebat narrare
       Pompeius, se, cum Rhodum venisset decedens ex Syria, audire voluisse Posidonium; sed cum
       audisset eum graviter esse aegrum, quod vehementer eius artus laborarent, voluisse tamen
       nobilissimum philosophum visere: quem ut vidisset et salutavisset honorificisque verbis
@@ -574,7 +571,7 @@
         efficiat, ut frustra tantus vir ad me venerit. </mentioned> itaque narrabat eum graviter et
       copiose de hoc ipso, nihil esse bonum nisi quod esset honestum, cubantem disputavisse, cumque
       quasi faces ei doloris admoverentur, saepe dixisse: </p>
-    <p n="62"> 'nihil agis, dolor! quamvis sis molestus, numquam te esse confitebor malum.'
+    <p xml:id="ctd99a-bac77a-d1e387" n="62"> 'nihil agis, dolor! quamvis sis molestus, numquam te esse confitebor malum.'
       Omninoque omnes clari et nobilitati labores continuo fiunt etiam tolerabiles. videmusne , apud
       quos eorum ludorum, qui gymnici nominantur, magnus honos sit, nullum ab is, qui in id certamen
       descendant, devitari dolorem? apud quos autem venandi et equitandi laus viget, qui hanc
@@ -583,19 +580,19 @@
       colligebant? itaque semper Africanus Socraticum Xenophontem in manibus habebat, cuius in
       primis laudabat illud, quod diceret eosdem labores non esse aeque gravis imperatori et militi,
       quod ipse honos laborem leviorem faceret imperatorium. </p>
-    <p n="63"> sed tamen hoc evenit, ut in vulgus insipientium opinio valeat honestatis, cum ipsam
+    <p xml:id="ctd99a-bac77a-d1e390" n="63"> sed tamen hoc evenit, ut in vulgus insipientium opinio valeat honestatis, cum ipsam
       videre non possint. itaque fama et multitudinis iudicio moventur, cum id honestum putent, quod
       a plerisque laudetur. te autem, si in oculis sis multitudinis, tamen eius iudicio stare nolim
       nec, quod illa putet, idem putare pulcherrimum. tuo tibi iudicio est utendum; tibi si recta
       probanti placebis, tum non modo tete viceris, quod paulo ante praecipiebam, sed omnis et
       omnia. </p>
-    <p n="64"> hoc igitur tibi propone: amplitudinem animi et quasi quandam exaggerationem quam
+    <p xml:id="ctd99a-bac77a-d1e393" n="64"> hoc igitur tibi propone: amplitudinem animi et quasi quandam exaggerationem quam
       altissimam animi, quae maxime eminet contemnendis et despiciendis doloribus, unam esse omnium
       rem pulcherrimam, eoque pulchriorem, si vacet populo neque plausum captans se tamen ipsa
       delectet. quin etiam mihi quidem laudabiliora videntur omnia, quae sine venditatione et sine
       populo teste fiunt, non quo fugiendus sit —omnia enim bene facta in luce se conlocari volunt
       —, sed tamen nullum theatrum virtuti conscientia maius est. </p>
-    <p n="65"> Atque in primis meditemur illud, ut haec patientia dolorum, quam saepe iam animi
+    <p xml:id="ctd99a-bac77a-d1e397" n="65"> Atque in primis meditemur illud, ut haec patientia dolorum, quam saepe iam animi
       intentione dixi esse firmandam, in omni genere se aequabilem praebeat. saepe enim multi, qui
       aut propter victoriae cupiditatem aut propter gloriae aut etiam, ut ius suum et libertatem
       tenerent, volnera exceperunt fortiter et tulerunt, idem omissa contentione dolorem morbi ferre
@@ -605,7 +602,7 @@
       captus hominum, satis, hostem aspicere non possunt: eidem morbos toleranter atque humane
       ferunt. at Cimbri et Celtiberi in proeliis exultant, lamentantur in morbo. nihil enim potest
       esse aequabile, quod non a certa ratione proficiscatur. </p>
-    <p n="66"> sed cum videas eos, qui aut studio aut opinione ducantur, in eo persequendo atque
+    <p xml:id="ctd99a-bac77a-d1e400" n="66"> sed cum videas eos, qui aut studio aut opinione ducantur, in eo persequendo atque
       adipiscendo dolore non frangi, debes existimare aut non esse malum dolorem aut, etiamsi,
       quicquid asperum alienumque natura sit, id appellari placeat malum, tantulum tamen esse, ut a
       virtute ita obruatur, ut nusquam appareat. quae meditare quaeso dies et noctes. latius enim
@@ -613,7 +610,7 @@
       fugiendae turpitudinis adipiscendaeque honestatis causa faciemus, non modo stimulos doloris,
       sed etiam fulmina fortunae contemnamus licebit, praesertim cum paratum sit illud ex hesterna
       disputatione perfugium. </p>
-    <p n="67"> ut enim si cui naviganti, praedones si insequantur, deus qui dixerit: <mentioned>
+    <p xml:id="ctd99a-bac77a-d1e403" n="67"> ut enim si cui naviganti, praedones si insequantur, deus qui dixerit: <mentioned>
         eice te navi; praesto est qui excipiat: vel delphinus, ut Arionem Methymnaeum, vel equi
         Pelopis illi Neptunii, qui per undas currus suspensos rapuisse dicuntur, excipient te et quo
         velis perferent </mentioned> , omnem omittat timorem, sic urguentibus asperis et odiosis
